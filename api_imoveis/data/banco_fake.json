@@ -1,0 +1,92 @@
+[
+  {
+    "id": "01711-002/1",
+    "endereco": "Sala comercial no Centro, Rua João Bauer 472 sala 02 térrea , Itajaí-SC CEP: 88301-500",
+    "locatario": "Mws Lavanderia Ltda ME",
+    "valor_aluguel": 4200.0,
+    "taxa_administracao": 470.63,
+    "total_para_repasse": 4924.10,
+    "pagamento_realizado": false
+  },
+  {
+    "id": "01711-002/1",
+    "endereco": "Sala comercial no Centro, Rua João Bauer 472 sala 02 térrea , Itajaí-SC CEP: 88301-500",
+    "locatario": "Mws Lavanderia Ltda ME",
+    "valor_aluguel": 4200.0,
+    "taxa_administracao": 420.0,
+    "total_para_repasse": 4468.50,
+    "pagamento_realizado": false
+  },
+  {
+    "id": "4969/3",
+    "endereco": "Casa no Centro, Rua 2070 300 , Balneário Camboriú-SC CEP: 88330-454",
+    "locatario": "Sergio Pacheco Mendes Junior",
+    "valor_aluguel": 5446.66,
+    "taxa_administracao": 544.67,
+    "total_para_repasse": 5172.32,
+    "pagamento_realizado": false
+  },
+  {
+    "id": "548/4",
+    "endereco": "Sala comercial no Centro, Avenida Coronel Marcos Konder 1207 Sala 130 Garagem 96 , Itajaí-SC CEP: 88301-300",
+    "locatario": "Hunter Douglas do Brasil Ltda",
+    "valor_aluguel": 2800.0,
+    "taxa_administracao": 280.0,
+    "total_para_repasse": 2597.59,
+    "pagamento_realizado": false
+  },
+  {
+    "id": "15445/1",
+    "endereco": "Apartamento no Centro, Rua Franklin Máximo Pereira 96 Apto 504 Garagem 26 , Itajaí-SC CEP: 88302-020",
+    "locatario": "Bárbara Letícia Arndt",
+    "valor_aluguel": 2600.0,
+    "taxa_administracao": 208.0,
+    "total_para_repasse": 2392.0,
+    "pagamento_realizado": true
+  },
+  {
+    "id": "15439/1",
+    "endereco": "Apartamento no Centro, Rua Franklin Máximo Pereira 96 Apto 507 Garagem 13 , Itajaí-SC CEP: 88302-020",
+    "locatario": "Guilherme Campestrini",
+    "valor_aluguel": 2900.0,
+    "taxa_administracao": 232.0,
+    "total_para_repasse": 2668.0,
+    "pagamento_realizado": true
+  },
+  {
+    "id": "15628/1",
+    "endereco": "Apartamento no Centro, Rua Franklin Máximo Pereira 96 Apto 607 Garagem 14 , Itajaí-SC CEP: 88302-020",
+    "locatario": "Janaina Rodrigues Kemper",
+    "valor_aluguel": 3100.0,
+    "taxa_administracao": 248.0,
+    "total_para_repasse": 2852.0,
+    "pagamento_realizado": true
+  },
+  {
+    "id": "15658/1",
+    "endereco": "Apartamento no Centro, Rua Franklin Máximo Pereira 96 Apto 602 Garagem 23 , Itajaí-SC CEP: 88302-020",
+    "locatario": "Edmundo Damiani Bertoli",
+    "valor_aluguel": 3800.0,
+    "taxa_administracao": 304.0,
+    "total_para_repasse": 3496.0,
+    "pagamento_realizado": true
+  },
+  {
+    "id": "15451/1",
+    "endereco": "Apartamento no Centro, Rua Franklin Máximo Pereira 96 Apto 503 Garagem 38 , Itajaí-SC CEP: 88302-020",
+    "locatario": "Taren Beatriz Ferreira Leite de Oliveira",
+    "valor_aluguel": 3400.0,
+    "taxa_administracao": 272.0,
+    "total_para_repasse": 3128.0,
+    "pagamento_realizado": true
+  },
+  {
+    "id": "15674/1",
+    "endereco": "Apartamento no Centro, Rua Franklin Máximo Pereira 96 Apto 606 Garagem 16 , Itajaí-SC CEP: 88302-020",
+    "locatario": "Ana Carolina Prates de Freitas",
+    "valor_aluguel": 2800.0,
+    "taxa_administracao": 224.0,
+    "total_para_repasse": 2576.0,
+    "pagamento_realizado": true
+  }
+]
