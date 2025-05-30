@@ -1,12 +1,13 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Depends
 from pathlib import Path
 import json
 import os
+from api_imoveis.auth import validar_chave  # importa a função de autenticação
 
 router = APIRouter()
 
 @router.get("/imovel/{imovel_id:path}")
-def get_imovel(imovel_id: str):
+def get_imovel(imovel_id: str, chave: str = Depends(validar_chave)):  # <-- aqui
     base_dir = os.path.dirname(__file__)  # api_imoveis/routers
     json_path = os.path.join(base_dir, "..", "data", "banco_fake.json")  # api_imoveis/data/banco_fake.json
     path = Path(json_path).resolve()
@@ -16,7 +17,6 @@ def get_imovel(imovel_id: str):
 
     # Busca imóvel pelo id na lista
     for imovel in banco:
-        # Ajuste aqui: se o id no JSON é inteiro, converta imovel_id para int
         if str(imovel.get("id")) == imovel_id:
             return imovel
 
