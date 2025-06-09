@@ -3,11 +3,89 @@
     "id": "01711-002/1",
     "endereco": "Sala comercial no Centro, Rua João Bauer 472 sala 02 térrea , Itajaí-SC CEP: 88301-500",
     "locatario": "Mws Lavanderia Ltda ME",
+    "CNPJ": " 13.187.078/0001-09",
+    "Percentual de repasse": "1000%",
+    "Forma de Pagamento": "Transf.bancária Banco Itaú S.A. ( 341 ) Ag 8262-7 CC 39090-2",
+    "Vencimento": "17/01/2025",
     "valor_aluguel": 4200.0,
-    "taxa_administracao": 470.63,
-    "total_para_repasse": 4924.10,
-    "pagamento_realizado": false
+    "IPTU - Parcela 1 de 12 ": 326.99,
+    "Rateio Despesas": 250.00,
+    "Taxa Limpeza Urbana - Parcela 1 de 12": 111.47,
+    "taxa_administracao": -420.00,
+    "total_para_repasse": 4468.46,
+    "pagamento_realizado": true
   },
+
+  {
+    "id": "01711-002/1",
+    "endereco": "Sala comercial no Centro, Rua João Bauer 472 sala 02 térrea , Itajaí-SC CEP: 88301-500",
+    "locatario": "Mws Lavanderia Ltda ME",
+    "CNPJ": " 13.187.078/0001-09",
+    "Percentual de repasse": "1000%",
+    "Forma de Pagamento": "Transf.bancária Banco Itaú S.A. ( 341 ) Ag 8262-7 CC 39090-2",
+    "Vencimento": "19/02/2025",
+    "valor_aluguel": 4200.0,
+    "IPTU - Parcela 2 de 12 ": 327.04,
+    "Rateio Despesas": 250.00,
+    "Taxa Limpeza Urbana - Parcela 1 de 12": 111.46,
+    "taxa_administracao": -420.00,
+    "total_para_repasse": 4468.50,
+    "pagamento_realizado": true
+  },
+
+  {
+    "id": "01711-002/1",
+    "endereco": "Sala comercial no Centro, Rua João Bauer 472 sala 02 térrea , Itajaí-SC CEP: 88301-500",
+    "locatario": "Mws Lavanderia Ltda ME",
+    "CNPJ": " 13.187.078/0001-09",
+    "Percentual de repasse": "1000%",
+    "Forma de Pagamento": "Transf.bancária Banco Itaú S.A. ( 341 ) Ag 8262-7 CC 39090-2",
+    "Vencimento": "19/02/2025",
+    "valor_aluguel": 4200.0,
+    "IPTU - Parcela 2 de 12 ": 327.04,
+    "Rateio Despesas": 250.00,
+    "Taxa Limpeza Urbana - Parcela 1 de 12": 111.46,
+    "taxa_administracao": -420.00,
+    "total_para_repasse": 4468.50,
+    "pagamento_realizado": true
+  },
+
+  {
+    "id": "01711-002/1",
+    "endereco": "Sala comercial no Centro, Rua João Bauer 472 sala 02 térrea , Itajaí-SC CEP: 88301-500",
+    "locatario": "Mws Lavanderia Ltda ME",
+    "CNPJ": " 13.187.078/0001-09",
+    "Percentual de repasse": "1000%",
+    "Forma de Pagamento": "Transf.bancária Banco Itaú S.A. ( 341 ) Ag 8262-7 CC 39090-2",
+    "Vencimento": "18/03/2025",
+    "valor_aluguel": 4200.0,
+    "IPTU - Parcela 3 de 12 ": 327.04,
+    "Rateio Despesas": 250.00,
+    "Taxa Limpeza Urbana - Parcela 1 de 12": 111.46,
+    "taxa_administracao": -420.00,
+    "total_para_repasse": 4468.50,
+    "pagamento_realizado": true
+  },
+
+
+  {
+    "id": "01711-002/1",
+    "endereco": "Sala comercial no Centro, Rua João Bauer 472 sala 02 térrea , Itajaí-SC CEP: 88301-500",
+    "locatario": "Mws Lavanderia Ltda ME",
+    "CNPJ": " 13.187.078/0001-09",
+    "Percentual de repasse": "1000%",
+    "Forma de Pagamento": "Transf.bancária Banco Itaú S.A. ( 341 ) Ag 8262-7 CC 39090-2",
+    "Vencimento": "1/03/2025",
+    "valor_aluguel": 4200.0,
+    "IPTU - Parcela 3 de 12 ": 327.04,
+    "Rateio Despesas": 250.00,
+    "Taxa Limpeza Urbana - Parcela 1 de 12": 111.46,
+    "taxa_administracao": -420.00,
+    "total_para_repasse": 4468.50,
+    "pagamento_realizado": true
+  },
+
+
   {
     "id": "01711-002/1",
     "endereco": "Sala comercial no Centro, Rua João Bauer 472 sala 02 térrea , Itajaí-SC CEP: 88301-500",
